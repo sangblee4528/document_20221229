@@ -1,0 +1,43 @@
+컴퓨터공학개론 : 컴퓨터의 운영체제 및 소프트웨어 알고리즘
+운영체제 간단
+https://www.youtube.com/watch?v=J06SirxZG7M
+운영체제 복잡
+https://www.youtube.com/watch?v=uMyKBYF48nY
+
+대학수학
+수학기호
+https://www.youtube.com/watch?v=EcMvdNaElBM
+숙명여대 대학수학
+https://www.youtube.com/watch?v=dT1cRKMQ7BE&list=PL85AYQZ4ks4Kmw92lTFTgh8pWHENoFD9f&index=2
+깨봉아저씨 초등학생도 이해하는 미분
+https://www.youtube.com/watch?v=t99QiDaFs1c
+
+
+인공지능개론
+성균관대학교 오하여 : 7:15  ~ 9:00
+https://www.youtube.com/watch?v=RtOnB8WrHKw&list=PLqpIWUSJxdDn9X17lI-WO56i6WAwx0VzS&index=1
+세종대       2:14 ~
+https://www.youtube.com/watch?v=J6hiz5zfDC0&list=PL1xKqHsVFgvk8nB5kJ3N0fFt3etudUBWt
+
+
+정보통신개론
+
+울산대학교 고재문 : 정보를 빼고 통신에 초점을 맞춘다.
+http://www.kocw.net/home/search/kemView.do?kemId=314507
+
+책그림 : 정보의 비밀 5:49 
+https://www.youtube.com/watch?v=d3iyDP3_AjU
+
+
+
+전자통신공학 : 전기 및 자기 신호에 대한 기초지식
+9가지 필수 전기법칙
+https://www.youtube.com/watch?v=B6AvNu4UXgE
+
+
+
+C언어
+나도 코딩
+https://www.youtube.com/watch?v=IxhMzEYB9L0&list=PLMsa_0kAjjrdiwQykI8eb3H4IRxLTqCnP&index=45
+
+
